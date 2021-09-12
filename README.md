@@ -7,7 +7,6 @@
   [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://clownless.xyz)
   [![Donate](https://rf0x3d.su/maybe_assets/money_transfer_outline_28.svg)](https://t.me/m4x3r228/5)
   [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/clownless)
-  [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/clownl3ss)
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=clownless&show_icons=true)
